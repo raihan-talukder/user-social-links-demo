@@ -104,6 +104,10 @@ body::-webkit-scrollbar {
     padding-top: 5px;
 }
 
+.social-link-icon > img {
+  border-radius: 50%;
+}
+
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
